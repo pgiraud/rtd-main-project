@@ -5,4 +5,5 @@ pages:
 - Home: index.md
 
 # Markdown settings
+strict: yes
 theme: readthedocs
